@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358321390599",
+    "project_id": "detail-keeping-app",
+    "storage_bucket": "detail-keeping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358321390599:android:5e0c6af2cb3e75597fd6a2",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358321390599-g0n7bva84a3g8ps63bbv3m8n2t5b98u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFDkhTDp3MgmFv-ZswjgPdMIy0JSW6AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358321390599-g0n7bva84a3g8ps63bbv3m8n2t5b98u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
